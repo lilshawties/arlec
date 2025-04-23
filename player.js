@@ -25,10 +25,10 @@ const { queueNames } = require("./commands/play");
 function initializePlayer(client) {
     const nodes = [
         {
-      name: "MuzammilOPYT",
-      password: "yourpasswordhere",
-      host: "ind1.zapto.org",
-      port:  25575,
+      name: "Unknownz",
+      password: "unknownz",
+      host: "de1.bot-hosting.net",
+      port:  20773,
       secure: false
         },
     ];
